@@ -8,7 +8,7 @@ atau
 ```
 chmod +x podman-mariadb.sh
 
-sh podman-mariadb.sh
+sh manage-db.sh
 ```
 wajib install podman dan podman-compose!
 
