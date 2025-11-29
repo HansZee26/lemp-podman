@@ -6,7 +6,7 @@ podman-compose up -d
 ```
 atau
 ```
-chmod +x podman-mariadb.sh
+chmod +x manage-db.sh
 
 sh manage-db.sh
 ```
